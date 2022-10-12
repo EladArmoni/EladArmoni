@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Elad Armoni
 -  🌱 I’m currently learning computer science, 2nd year
 - 👀 I am looking for a software development student position and mainly interested in server side
-- 📫 You can reach me on gmail: eladarmoni96@gmail.com or on linkedin: Elad Armoni
+- 📫 You can reach me on gmail: eladarmoni96@gmail.com or on linkedin: https://www.linkedin.com/in/elad-armoni/
