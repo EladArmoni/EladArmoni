@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Elad Armoni
--  🌱 I’m currently a Computer Science student, 3rd year
+- 👋 Hi, I’m Elad Armoni - Software Engineer Intern at RDV Systems
+- 🌱 I’m currently a 3rd year Computer Science student
 - 📫 You can reach me on gmail: eladarmoni96@gmail.com or on linkedin: https://www.linkedin.com/in/elad-armoni/
